@@ -33,3 +33,6 @@
 以防止死路為目的進行創建，從起點開始，每一圈的轉動方塊是否都在可進入範圍，確保每一圈的方塊玩家都能進入。  
 在迷宮創建時，從起點為頭，由左至右一圈進行創建，同時確保目前所創建的這圈中為可進入範圍，直到創建完畢。  
 <img src="https://github.com/MasterOuO/LabyrinthVR/blob/main/show/4.gif" width="400px">
+
+##影片連結
+<a href="https://www.youtube.com/watch?v=CN_U5atPzEM">youtube影片連結</a>
