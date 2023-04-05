@@ -15,5 +15,21 @@
 硬體設備 : Android手機、Google Cardboard  
 
 ## 用戶端介紹
-### 使用操作
-玩家透過通過轉動頭部來觀察迷宮環境，並利用 Google Cardboard 按鈕對焦並點擊來操作道路方塊的旋轉。
+### 硬體設備
+將 APK 安裝到 Android 手機中，並將手將放入 Google Cardboard 完成簡易VR裝置。  
+<img src="https://github.com/MasterOuO/LabyrinthVR/blob/main/show/4.jpg" width="200px">
+<img src="https://github.com/MasterOuO/LabyrinthVR/blob/main/show/5.jpg" width="200px">
+### 移動操作
+玩家戴上 Google Cardboard 透過通過轉動頭部以及原地踏步來觀察迷宮環境。  
+<img src="https://github.com/MasterOuO/LabyrinthVR/blob/main/show/3.jpg" width="400px">
+### 轉動方塊
+玩家將准心對準方塊並使用 Google Cardboard 按鈕點擊來轉動道路方塊的旋轉。  
+<img src="https://github.com/MasterOuO/LabyrinthVR/blob/main/show/2.jpg" width="400px">
+### 標記
+玩家長按 Google Cardboard 按鈕點擊在當前位置地板上進行標記。  
+<img src="https://github.com/MasterOuO/LabyrinthVR/blob/main/show/1.jpg" width="400px">
+
+##迷宮創建
+以防止死路為目的進行創建，從起點開始，每一圈的轉動方塊是否都在可進入範圍，確保每一圈的方塊玩家都能進入。  
+在迷宮創建時，從起點為頭，由左至右一圈進行創建，同時確保目前所創建的這圈中為可進入範圍，直到創建完畢。  
+<img src="https://github.com/MasterOuO/LabyrinthVR/blob/main/show/4.gif" width="400px">
