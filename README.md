@@ -2,7 +2,7 @@
 
 ## 介紹
 《轉動迷宮(VR)》是一款運用虛擬實境技術的迷宮解謎遊戲。遊戲中，玩家需要使用 Google Cardboard 設備原地踏步，控制角色在虛擬迷宮中探索。玩家的目標是通過旋轉道路方塊，連接不同的道路，找到迷宮的出口。  
-
+<img src="https://github.com/MasterOuO/LabyrinthVR/blob/main/show/poster.jpg" width="200px">
 ## 動機
 創建這款遊戲的動機在於結合虛擬現實技術和益智解謎遊戲，為玩家帶來沉浸式的遊戲體驗。同時，使用 Google Cardboard 相對便宜且易於獲得的VR設備，讓更多人能夠體驗虛擬現實遊戲的樂趣。  
 
